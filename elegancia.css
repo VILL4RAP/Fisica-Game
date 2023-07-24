@@ -1,0 +1,25 @@
+body {
+    background-image: url(fisica.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 1800px;
+    background-attachment: fixed;
+
+
+      
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    font-weight: 400;
+    color: #ffffff; /* Color del texto */
+    background-color: #332c2c; /* Color de fondo */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+}
